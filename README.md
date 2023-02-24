@@ -15,7 +15,7 @@ Words on the same line will get replaced.
 
 **Having 2 or more words in a cell works too, but both cells need to have the same amount of words**
 
-## Getting Started
+## How to use
 
 Inside the src folder there is a init.json file which needs to be edited to your own spreadsheet ID, your desired columns and your own API.
 
@@ -26,7 +26,7 @@ The text file you want to edit needs to be in the same folder.
 
 To build yourself you only need Rust. All Cargo dependencies will be downloaded on building.
 
-Get your own Google Spreadsheet API or any other Google API from any account. It doesn't matter. The API is only used to read the columns.
+Get your own Google Spreadsheet API or any other Google API from any account. It doesn't matter which account you use. The API is only used to read the columns.
 
 **Example init.json**
 ```
@@ -38,6 +38,9 @@ Get your own Google Spreadsheet API or any other Google API from any account. It
 }
 ```
 
-### Installing
+### Building
 
-TBA
+Navigate to the root folder and enter
+```
+cargo build --release
+```
