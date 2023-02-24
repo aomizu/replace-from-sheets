@@ -28,6 +28,16 @@ To build yourself you only need Rust. All Cargo dependencies will be downloaded 
 
 Get your own Google Spreadsheet API or any other Google API from any account. It doesn't matter. The API is only used to read the columns.
 
+**Example init.json**
+```
+{
+    "spreadsheet_id": "1234567",
+    "column1": "Sheet1!A1:A",
+    "column2": "Sheet1!B1:B",
+    "api_key": "123abc123abc"
+}
+```
+
 ### Installing
 
 TBA
