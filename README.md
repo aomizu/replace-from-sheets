@@ -13,7 +13,7 @@ Second column: replacing word
 
 Words on the same line will get replaced.
 
-**Having 2 or more words in a cell works, too but both cells need to have the same amount of words**
+**Having 2 or more words in a cell works too, but both cells need to have the same amount of words**
 
 ## Getting Started
 
