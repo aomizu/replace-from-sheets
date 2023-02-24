@@ -1,6 +1,6 @@
 {
-    "spreadsheet_id": "YOUR_SPREADSHEET_ID",
-    "column1": "COLUMN_ARRAY1",
-    "column2": "COLUMN_ARRAY2",
-    "api_key": "YOUR_API_KEY"
+    "spreadsheet_id": "1Dzkjp6Y__z8iztmN7cWP0ZpwUHR-91Ql05DJZTqnvpI",
+    "column1": "Sheet1!B2:B",
+    "column2": "Sheet1!C2:C",
+    "api_key": "AIzaSyAnj9YAuf1NJfpHe38ej-inIJpiDz2JXcQ"
 }

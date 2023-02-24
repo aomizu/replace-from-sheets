@@ -1,1 +1,3 @@
-/src/init.json
+src/init.json
+*.json
+target
